@@ -1,4 +1,4 @@
-const functionApi = '';
+const functionApi = 'http://localhost:7071/api/GetResumeCounter';
 
 
 window.addEventListener('DOMContentLoaded', (event)=> {
