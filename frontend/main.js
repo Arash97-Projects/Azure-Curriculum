@@ -1,6 +1,6 @@
 
-const functionApiUrl = ""
-const localfunctionApi = '';
+const functionApiUrl = "";
+const localfunctionApi = "";
 
 
 window.addEventListener('DOMContentLoaded', (event)=> {
