@@ -1,5 +1,5 @@
 
-const functionApiUrl = "";
+const functionApiUrl = "https://azureresumearash.azurewebsites.net/api/GetResumeCounter?code=b0affvgJMg7eXYo38vqJCTsUUMoIdoyF_y10P6EjVJzXAzFu1q4NPg=="
 const localfunctionApi = "";
 
 
